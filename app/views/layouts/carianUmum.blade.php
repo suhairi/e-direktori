@@ -37,6 +37,8 @@
     {{ HTML ::style('css/jquery.iphone.toggle.css') }}
     {{ HTML ::style('css/uploadify.css') }}
     {{ HTML ::style('css/animate.min.css') }}
+    {{ HTML ::style('css/collapse-styles.css') }}
+    {{ HTML::script('js/collapse-script.js') }}
 
     <!-- jQuery -->
     {{ HTML::script('bower_components/jquery/jquery.min.js') }}

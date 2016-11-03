@@ -35,6 +35,7 @@
                         <td class="center">Faks</td>
                         <td class="center">04 771 3180</td>
                     </tr>
+                    
                     </tbody>
                     <thead>
                     <tr>
@@ -43,10 +44,23 @@
                     </thead>
                     <tbody>
                     <tr>
-                        <td>Inta</td>
+                        <td>Intan</td>
                         <td class="center">Sambungan</td>
                         <td class="center">-</td>
                     </tr>
+                    <tr>
+                        <td>Ku Hussain </td>
+                        <td class="center">Sambungan</td>
+                        <td class="center">335</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td class="center">Faks</td>
+                        <td class="center">04 771 5206</td>
+                    </tr>
+                    
+
+
                     </tbody>
                 </table>
             </div>

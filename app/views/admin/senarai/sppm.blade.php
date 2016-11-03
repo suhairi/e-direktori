@@ -63,7 +63,7 @@
         </thead>
         <tbody>
         <tr>
-            <td class="center">Kompleks Latihan Alor Serdang </td>
+            <td class="center">Kompleks Latihan MRTC </td>
             <td class="center">04 731 2162</td>
             <td class="center">#693</td>
         </tr>

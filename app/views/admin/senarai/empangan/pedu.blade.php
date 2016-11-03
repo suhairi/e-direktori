@@ -35,6 +35,13 @@
                         <td class="center">04 7868 472</td>
                         <td class="center"># 699</td>
                     </tr>
+                    <tr>
+                        <td>Pejabat 2</td>
+                        <td>04 7521 779</td>
+                        <td class="center"></td>
+                        <td class="center"></td>
+                    </tr>
+
                     </tbody>
                 </table>
             </div>

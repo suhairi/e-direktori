@@ -27,7 +27,6 @@
                 <td class='center'><a href="{{ URL::route('syarikat-kemaskini', array($sykt->id)) }}">Kemaskini </a> </td>
             </tr>
 
-
         @endforeach
         {{--<tr>--}}
             {{--<td class='center'>{{ $bil }}</td>--}}

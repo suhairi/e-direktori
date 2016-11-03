@@ -43,11 +43,11 @@
                 if($i>=500 && $i<600)
                     $skip = true;
 
-                if($i>=700 && $i<800)
+                if($i>=700 && $i<7699)
                     $skip = true;
 
-                if($i>=900)
-                    $skip = true;
+                // if($i>=900)
+                //     $skip = true;
 
                 $syarikat   = DB::table('syarikat')->where('speedDial', '=', $i)->get();
                 $staff      = DB::table('staff')->where('speedDial', '=', $i)->get();

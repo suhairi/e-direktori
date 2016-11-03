@@ -90,33 +90,40 @@
                        <td class="center" width="20%">250</td>
                     </tr>
                     <tr>
-                       <td>War Room</td>
-                       <td class="center" width="20%">260</td>
-                    </tr>
-
-                    <tr>
-                       <td>Bilik Pemandu</td>
-                       <td class="center">173</td>
+                        <td>MUDA Lounge</td>
+                        <td class="center">139</td>
                     </tr>
                     <tr>
-                       <td>Kantin</td>
-                       <td class="center">401</td>
-                    </tr>
-                    <tr>
-                        <td>Pondok Kawalan</td>
-                        <td class="center">404</td>
+                        <td>Bilik Pemandu</td>
+                        <td class="center">173</td>
                     </tr>
                     <tr>
                         <td>KOMADA</td>
                         <td class="center">173</td>
                     </tr>
                     <tr>
-                        <td>MUDA Lounge</td>
-                        <td class="center">139</td>
-                    </tr>
-                    <tr>
                         <td>Pusat Info MADA (Perpustakaan)</td>
                         <td class="center">188</td>
+                    </tr>
+                    <tr>
+                       <td>War Room</td>
+                       <td class="center" width="20%">260</td>
+                    </tr>
+                    <tr>
+                        <td>BDC</td>
+                        <td class="center">276</td>
+                    </tr>
+                    <tr>
+                       <td>Kantin</td>
+                       <td class="center">401</td>
+                    </tr>
+                    <tr>
+                       <td>Makmal Benih</td>
+                       <td class="center">402</td>
+                    </tr>
+                    <tr>
+                        <td>Pondok Kawalan</td>
+                        <td class="center">404</td>
                     </tr>
                     </tbody>
                 </table>

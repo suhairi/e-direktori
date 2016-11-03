@@ -25,8 +25,18 @@ class AduanController extends BaseController {
             $aduan->tarikh  = date('d-m-Y');
             $aduan->aduan   = $data['aduan'];
 
-            if($aduan->save())
+            if($aduan->save()) {
+
+                // $to         = 'suhairi81@gmail.com';
+                // $name       = 'Suhairi Abdul Hamid';
+                // $subject    = 'Aduan Baru dari e-Direktori';
+                // Mail::send('emails.aduan', $data, function($message) {
+                //     $message->to($to, ['firstname' => $name])
+                //     ->subject($subject);
+                // });
+
                 return 1;
+            }
             else
                 return 0;
         }

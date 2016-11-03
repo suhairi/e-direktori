@@ -49,7 +49,7 @@ Log::useFiles(storage_path().'/logs/laravel.log');
 App::error(function(Exception $exception, $code)
 {
 	Log::error($exception);
-    return Response::make("Laman tidak dijumpai!", 404);
+    return Response::make("Sistem ini sedang dikemaskini. Harap Maaf.", 404);
 });
 
 /*

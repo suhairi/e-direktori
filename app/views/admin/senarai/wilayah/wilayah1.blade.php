@@ -58,7 +58,7 @@
                     <tr>
                         <td class="center">Pengurus : Badrul Hisham Hashim</td>
                         <td class="center">012 425 6844</td>
-                        <td class="center">04 986 1109</td>
+                        <td class="center">7756</td>
                     </tr>
                     <tr><td colspan="3">&nbsp;</td></tr>
                     <tr>
@@ -69,18 +69,18 @@
                     <tr>
                         <td class="center">Pengurus : Hj. Muhammad Zaki Ghani</td>
                         <td class="center">-</td>
-                        <td class="center">-</td>
+                        <td class="center">7757</td>
                     </tr>
                     <tr><td colspan="3">&nbsp;</td></tr>
                     <tr>
                         <td class="center">C1 - Kangar</td>
-                        <td class="center">04 986 1109</td>
+                        <td class="center">04 976 2467</td>
                         <td class="center">#612</td>
                     </tr>
                     <tr>
                         <td class="center">Pengurus : Khairil Azmer Ismail</td>
                         <td class="center">012 - 551 6781</td>
-                        <td class="center">-</td>
+                        <td class="center">7758</td>
                     </tr>
                     <tr><td colspan="3">&nbsp;</td></tr>
                     <tr>
@@ -96,13 +96,13 @@
                     <tr><td colspan="3">&nbsp;</td></tr>
                     <tr>
                         <td class="center">E1 - Simpang Empat, Perlis</td>
-                        <td class="center">04 976 1055</td>
+                        <td class="center">04 980 7248</td>
                         <td class="center">#616</td>
                     </tr>
                     <tr>
                         <td class="center">Pengurus : Yusrizal Abu Bakar @ Zakaria</td>
                         <td class="center">019 415 5067</td>
-                        <td class="center">-</td>
+                        <td class="center">7759</td>
                     </tr>
                     <tr>
                         <td colspan="3">&nbsp;</td>
@@ -132,7 +132,7 @@
                     </tr>
                     <tr>
                         <td class="center">E1 - Simpang Empat, Perlis</td>
-                        <td class="center">04 976 1055</td>
+                        <td class="center">04 980 7741</td>
                         <td class="center">#617</td>
                     </tr>
 

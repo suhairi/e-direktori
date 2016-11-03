@@ -4,9 +4,11 @@ class SearchController extends BaseController {
 
     public function carianStaff() {
 
-        $date = date('d');
+        $date = rand(1,40);
 
         $hadis = Hadis::find($date);
+
+//        dd($date);
 
         if(\Session::get('hadisDone') == 'first')
             \Session::put('hadisDone', 'done');
@@ -196,3 +198,4 @@ class SearchController extends BaseController {
     }
 
 }
+

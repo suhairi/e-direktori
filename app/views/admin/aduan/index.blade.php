@@ -61,7 +61,7 @@ $('#frm').on('submit', function(e){
             console.log(data);
         },
         error   : function(){
-            swal({   title: 'Gagal!',   text: 'Aduan gagal dipadam.',   type: 'error',   confirmButtonText: 'OK' });
+            swal({   title: 'Gagal!',   text: 'Aduan gagal dihantar!.',   type: 'error',   confirmButtonText: 'OK' });
         }
     }, "json");
 

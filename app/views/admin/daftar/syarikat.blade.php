@@ -30,7 +30,7 @@
 
        <div class="form-group">
            <label for="speed-dial">Speed Dial</label>
-           <input type="text" name="speedDial" id="speedDial" class="form-control" placeholder="Speed Dial" size="7" maxlength="3">
+           <input type="text" name="speedDial" id="speedDial" class="form-control" placeholder="Speed Dial" size="7" maxlength="4">
        </div>
        <div class="form-group">
            <label for="no-fax">No Fax</label>

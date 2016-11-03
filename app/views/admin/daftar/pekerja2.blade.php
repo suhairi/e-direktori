@@ -21,7 +21,7 @@
        <div class="form-group">
            <label class="control-label" for="selectError">Penempatan</label>
            <div class="controls">
-               <select id="penempatan" data-rel="chosen">
+               <select id="penempatan" data-rel="chosen" class="form-control">
                <option selected value="0">Penempatan</option>
                <?php
                     $penempatan = Penempatan::orderBy('id', 'ASC')->get();
@@ -36,7 +36,7 @@
        <div class="form-group">
           <label class="control-label" for="selectError">Bahagian</label>
           <div class="controls">
-              <select id="bahagian" name="bahagian" data-rel="chosen">
+              <select id="bahagian" name="bahagian" data-rel="chosen" class="form-control">
               <option selected value="0">Bahagian</option>
               <?php
                    $bahagian = Bahagian::orderBy('id', 'ASC')->get();
@@ -63,7 +63,7 @@
            <label class="control-label" for="selectError">Status</label>
 
            <div class="controls">
-             <select id="status" name="status" data-rel="chosen">
+             <select id="status" name="status" data-rel="chosen" class="form-control">
                <option value="TIDAK AKTIF" selected>Tidak Aktif</option>
            </select>
            </div>

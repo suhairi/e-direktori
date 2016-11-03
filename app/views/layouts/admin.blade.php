@@ -23,11 +23,13 @@
     {{ HTML ::style('css/uploadify.css') }}
     {{ HTML ::style('css/animate.min.css') }}
     {{ HTML ::style('css/sweetalert.css') }}
+    {{ HTML ::style('css/collapse-styles.css') }}
 
 
     <!-- jQuery -->
     {{ HTML::script('bower_components/jquery/jquery.min.js') }}
     {{ HTML::script('js/sweetalert-dev.js') }}
+    {{ HTML::script('js/collapse-script.js') }}
 
     <link rel="shortcut icon" href="{{ asset('images/favicon.ico') }}">
     {{--<link rel="shortcut icon" href="http://laravel.com/img/favicon.png">--}}

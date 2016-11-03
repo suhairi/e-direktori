@@ -97,6 +97,15 @@ Route::group(array('before' => 'auth'), function() {
     ]);
 
     /*
+     * Hadis
+     */
+
+    Route::get('/hadis', [
+        'as'    => 'hadis',
+        'uses'  => 'HadisController@index'
+    ]);
+
+    /*
      * Search Syarikat
      */
 
